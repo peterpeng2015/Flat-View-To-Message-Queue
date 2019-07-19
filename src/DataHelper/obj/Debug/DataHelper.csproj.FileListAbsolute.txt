@@ -1,0 +1,11 @@
+F:\personal test projs\cshap\Flat View To Message Queue\src\DataHelper\bin\Debug\services.config
+F:\personal test projs\cshap\Flat View To Message Queue\src\DataHelper\bin\Debug\DataHelper.dll
+F:\personal test projs\cshap\Flat View To Message Queue\src\DataHelper\bin\Debug\DataHelper.pdb
+F:\personal test projs\cshap\Flat View To Message Queue\src\DataHelper\bin\Debug\DBHelper.dll
+F:\personal test projs\cshap\Flat View To Message Queue\src\DataHelper\bin\Debug\IOHelper.dll
+F:\personal test projs\cshap\Flat View To Message Queue\src\DataHelper\bin\Debug\log4net.dll
+F:\personal test projs\cshap\Flat View To Message Queue\src\DataHelper\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\personal test projs\cshap\Flat View To Message Queue\src\DataHelper\bin\Debug\MySql.Data.dll
+F:\personal test projs\cshap\Flat View To Message Queue\src\DataHelper\bin\Debug\log4net.xml
+F:\personal test projs\cshap\Flat View To Message Queue\src\DataHelper\obj\Debug\DataHelper.dll
+F:\personal test projs\cshap\Flat View To Message Queue\src\DataHelper\obj\Debug\DataHelper.pdb

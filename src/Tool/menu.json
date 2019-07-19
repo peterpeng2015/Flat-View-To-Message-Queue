@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "1",
+    "ParentId": "0",
+    "Name": "文件",
+    "Display": "0",
+    "DLLName": "",
+    "ClassFullName": ""
+  },
+  {
+    "Id": "2",
+    "ParentId": "1",
+    "Name": "数据源配置",
+    "Display": "1",
+    "DLLName": "Acquisition",
+    "ClassFullName": "Acquisition.frmMaster"
+  },
+  {
+    "Id": "3",
+    "ParentId": "1",
+    "Name": "轮询配置",
+    "Display": "1",
+    "DLLName": "Polling",
+    "ClassFullName": "Polling.frmPollConfig"
+  },
+   {
+    "Id": "4",
+    "ParentId": "1",
+    "Name": "退出",
+    "Display": "0",
+    "DLLName": "",
+    "ClassFullName": ""
+  }
+]

@@ -1,0 +1,13 @@
+F:\personal test projs\cshap\Flat View To Message Queue\src\3.Preserve\bin\Release\Preserve.exe
+F:\personal test projs\cshap\Flat View To Message Queue\src\3.Preserve\bin\Release\Preserve.pdb
+F:\personal test projs\cshap\Flat View To Message Queue\src\3.Preserve\bin\Release\DataHelper.dll
+F:\personal test projs\cshap\Flat View To Message Queue\src\3.Preserve\bin\Release\DBHelper.dll
+F:\personal test projs\cshap\Flat View To Message Queue\src\3.Preserve\bin\Release\Polling.exe
+F:\personal test projs\cshap\Flat View To Message Queue\src\3.Preserve\bin\Release\IOHelper.dll
+F:\personal test projs\cshap\Flat View To Message Queue\src\3.Preserve\bin\Release\MySql.Data.dll
+F:\personal test projs\cshap\Flat View To Message Queue\src\3.Preserve\bin\Release\Oracle.ManagedDataAccess.dll
+F:\personal test projs\cshap\Flat View To Message Queue\src\3.Preserve\bin\Release\Polling.pdb
+F:\personal test projs\cshap\Flat View To Message Queue\src\3.Preserve\bin\Release\DataHelper.pdb
+F:\personal test projs\cshap\Flat View To Message Queue\src\3.Preserve\obj\Release\3.Preserve.csprojResolveAssemblyReference.cache
+F:\personal test projs\cshap\Flat View To Message Queue\src\3.Preserve\obj\Release\Preserve.exe
+F:\personal test projs\cshap\Flat View To Message Queue\src\3.Preserve\obj\Release\Preserve.pdb

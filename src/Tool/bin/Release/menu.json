@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "1",
+    "ParentId": "0",
+    "Name": "文件",
+    "Display": "0",
+    "DLLName": "",
+    "ClassFullName": ""
+  },
+  {
+    "Id": "2",
+    "ParentId": "1",
+    "Name": "数据源配置",
+    "Display": "1",
+    "DLLName": "Source",
+    "ClassFullName": "ETL.Source.frmMain"
+  },
+  {
+    "Id": "3",
+    "ParentId": "1",
+    "Name": "任务配置",
+    "Display": "1",
+    "DLLName": "Task",
+    "ClassFullName": "ETL.Task.frmMain"
+  },
+  {
+    "Id": "4",
+    "ParentId": "1",
+    "Name": "退出",
+    "Display": "1",
+    "DLLName": "",
+    "ClassFullName": ""
+  }
+]

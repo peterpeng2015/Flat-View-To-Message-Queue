@@ -1,0 +1,8 @@
+F:\personal test projs\cshap\ETL\ETL.Client\bin\Debug\Client.exe.config
+F:\personal test projs\cshap\ETL\ETL.Client\bin\Debug\Client.exe
+F:\personal test projs\cshap\ETL\ETL.Client\bin\Debug\Client.pdb
+F:\personal test projs\cshap\ETL\ETL.Client\obj\Debug\ETL.Client.frmMain.resources
+F:\personal test projs\cshap\ETL\ETL.Client\obj\Debug\ETL.Client.csproj.GenerateResource.Cache
+F:\personal test projs\cshap\ETL\ETL.Client\obj\Debug\Client.exe
+F:\personal test projs\cshap\ETL\ETL.Client\obj\Debug\Client.pdb
+F:\personal test projs\cshap\ETL\ETL.Client\obj\Debug\Client.Properties.Resources.resources
