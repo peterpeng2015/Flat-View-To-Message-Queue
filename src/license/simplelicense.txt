@@ -1,0 +1,52 @@
+1.应用程序引用RegisterClass.dll
+2.应用程序在登陆时判断license， 如下示例代码
+ static class Program
+    {
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+
+     
+            RegisterClass rc = new RegisterClass();
+            string msg = "";
+
+           --license文件，可以修改成当前运行路径	
+            var result = rc.HasRegist(@"D:\work\SoftwareRegister\AuditDemo\bin\Debug\license.txt", ref msg);
+            if (result == 1)
+            {
+                MessageBox.Show(msg);
+                return;
+            }
+            else if (result == 2)
+            {
+                MessageBox.Show(msg);
+                return;
+            }
+            else if (result == 3)
+            {
+                MessageBox.Show(msg);
+                return;
+            }
+            else if (result == 4)
+            {
+                MessageBox.Show(msg);
+                return;
+            }
+            Application.Run(new Form1());
+        }
+
+  
+    }      
+
+
+
+3.在程序运行服务器上运行EMRAudit.exe,获取机器码
+
+4.运行EMRRegister.exe，输入注册码和使用最后期限时间， 生成注册文件
+
+5.注册文件拷贝到程序运行目录，启动程序
